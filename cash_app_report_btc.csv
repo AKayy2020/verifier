@@ -1,0 +1,4 @@
+"Transaction ID","Date","Transaction Type","Currency","Amount","Fee","Net Amount","Asset Type","Asset Price","Asset Amount","Status","Notes","Name of sender/receiver","Account"
+"dqgzfk","2023-12-07 12:31:47 CST","Bitcoin Sale","USD","$2.14","-$0.06","$2.08","BTC","$43,179.98","0.00004956","COMPLETED","sale of BTC 0.00004956","","Your Cash"
+"eupock","2023-12-06 19:01:53 CST","Bitcoin Buy","USD","-$1.21","-$0.04","-$1.25","BTC","$44,048.05","0.00002747","COMPLETED","purchase of BTC 0.00002747","","Your Cash"
+"m6azv4","2023-12-06 16:56:04 CST","Bitcoin Buy","USD","-$0.97","-$0.03","-$1","BTC","$43,911.27","0.00002209","COMPLETED","purchase of BTC 0.00002209","","Your Cash"
